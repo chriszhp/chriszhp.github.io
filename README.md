@@ -4,9 +4,9 @@
 
 ## Education							       		
 - Master of Science, Financial Technology
-- *Chinese University of Hong Kong (_November 2023_)*	 			        		
+  Chinese University of Hong Kong (_November 2023_)		        		
 - Bachelor of Mathematics (Honours), Financial Analysis and Risk Management - Co-operative
-- *University of Waterloo (_June 2021_)*
+  University of Waterloo (_June 2021_)
 
 <!-- ## Internship Experience
 **Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
