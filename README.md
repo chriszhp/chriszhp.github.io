@@ -16,16 +16,23 @@
 - Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes -->
 
 ## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
-[Code]()
+### FinTech Industrial Project
+[Code](https://github.com/chriszhp/fintech_project)
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+Collaborated with bank, collected public available comments and utilized pre-train language model to perform sentiment analysis using **Python**. This data-driven approach led to better characterization of public opinion to the product. Combined with other macro economic indicators, identified important factors and proposed product improvement plan.
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+<!-- ![FinTech Industrial Project](/assets/img/) -->
 
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-[Code]()
+### LLM Prompt Recovery - Kaggle
+[Code](https://github.com/chriszhp/LLM_PR)
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
+Silver medal solution to Kaggle LLM prompt recovery competition sith two-step extension to the best available mean prompt using **Python**. 
 
-![Bike Study](/assets/img/bike_study.jpeg)
+<!-- ![LLM Prompt Recovery - Kaggle](/assets/img/) -->
+
+### Autocallable Product Pricing
+[Code](https://github.com/chriszhp/autocallable_pricing)
+
+Monte Carlo based autocallable product pricing and greeks calculation using **Python**. 
+
+<!-- ![LLM Prompt Recovery - Kaggle](/assets/img/) -->
