@@ -9,11 +9,13 @@
 - **Bachelor of Mathematics, Financial Analysis and Risk Management(Co-op)** <br /> University of Waterloo (_June 2021_)
 
 ## Work Experience
-**Research Assistant @ Financial Engineering Centre, Chinese University of Hong Kong (_Janurary 2024 - Present_)**
+**Analyst @ Global Technology and Operations, Haitong International Securities Group Limited (_August 2024 - Present_)**
+
+**Research Assistant @ Financial Engineering Centre, Chinese University of Hong Kong (_Janurary 2024 - August 2024_)**
 - Conducted research on LLM application in finance
 - Supported other ongoing research tasks
 
-**FinTech Project Assistant @ Hang Seng Bank (_May 2023 - August 2023_)**
+**FinTech Project Assistant @ Global Markets, Hang Seng Bank (_May 2023 - August 2023_)**
 - Supported the structured product team for development
 - Prepared a new real-time monitoring tool for index basis with Bloomberg API using **VBA**
 - Supported new product launching by revamping existing backtesting method using **Python**, reduced processing time by over 90%
